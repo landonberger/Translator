@@ -1,2 +1,2 @@
 # Translator
-My first GUI for my software development final, (Translator App)
+My GUI for my software development final, (Translator App)
